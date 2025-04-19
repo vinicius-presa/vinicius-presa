@@ -2,13 +2,13 @@
 **Seja bem-vindo ao meu perfil!**
 > "Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema." – Thales Valentim 🪄
 
-Olá, me chamo Vinicius Kerber Presa, fascinado e apaixonado por Desenvolvimento desde o meu primeiro contato, com mais de 10 anos de experiência, posso dizer que trabalho com satisfação e alegria, pois como já disse antes rsrs... Desenvolvimento é uma de minhas paixões. 
+Olá, me chamo Vinicius, fascinado e apaixonado por Desenvolvimento desde o meu primeiro contato, com mais de 10 anos de experiência, posso dizer que trabalho com satisfação e alegria, pois como já disse no começo rsrs... Desenvolvimento é uma de minhas paixões. 
 Aqui compartilho alguns dos projetos que refletem essa jornada.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-kerber-presa-5839b323b/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciuspre@gmail.com)
-[![Portfólio](https://img.shields.io/badge/-PORTF%C3%93LIO-000000?style=for-the-badge&logoColor=white)](https://viportfolio.website/)
 
+<a href="https://www.linkedin.com/in/vinicius-kerber-presa-5839b323b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://viportfolio.website/" target="_blank"><img src="https://img.shields.io/badge/-PORTF%C3%93LIO-000000?style=for-the-badge&logoColor=white"></a>
+<a href="mailto:viniciuspre@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ---
 ## Tecnologias que tenho conhecimento 
