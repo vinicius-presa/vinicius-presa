@@ -11,7 +11,7 @@ Aqui compartilho alguns dos projetos que refletem essa jornada.
 
 
 ---
-## 🤖 Linguagens e Tecnologias
+## Tecnologias que tenho conhecimento 
 <!-- PHP -->
 <img align="left" alt="PHP" title="PHP" width="30px" style="padding-right: 10px;" 
 src="https://github.com/vinicius-presa/assets/blob/main/img_tec/php-2.svg" />
