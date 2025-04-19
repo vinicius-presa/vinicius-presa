@@ -21,7 +21,6 @@ src="https://github.com/vinicius-presa/assets/blob/main/img_tec/laravel.svg" />
 src="https://github.com/vinicius-presa/assets/blob/main/img_tec/zend.svg" />
 <img align="left" alt="CodeIgniter" title="CodeIgniter Framework" width="30px" style="padding-right: 10px;" 
 src="https://github.com/vinicius-presa/assets/blob/main/img_tec/codeigniter.svg" />
-<br/><br/>
 <!-- Java script -->
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" 
 src="https://github.com/vinicius-presa/assets/blob/main/img_tec/javascript.svg" />
@@ -33,7 +32,6 @@ src="https://github.com/vinicius-presa/assets/blob/main/img_tec/react.svg" />
 src="https://github.com/vinicius-presa/assets/blob/main/img_tec/next.svg" />
 <img align="left" alt="Node" title="Node" width="30px" style="padding-right: 10px;" 
 src="https://github.com/vinicius-presa/assets/blob/main/img_tec/node.svg" />
-<br/><br/>
 <!-- Html -->
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="Vue" title="Vue" width="30px" style="padding-right: 10px;" 
@@ -42,7 +40,6 @@ src="https://github.com/vinicius-presa/assets/blob/main/img_tec/vue.svg" />
 src="https://github.com/vinicius-presa/assets/blob/main/img_tec/bootstrap.svg" />
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" 
 src="https://github.com/vinicius-presa/assets/blob/main/img_tec/css.svg" />
-<br/><br/>
 <!-- Outras tecnologias -->
 <img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" 
 src="https://github.com/vinicius-presa/assets/blob/main/img_tec/mysql.svg" />
