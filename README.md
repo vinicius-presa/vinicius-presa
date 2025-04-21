@@ -1,8 +1,8 @@
-# 🧑‍💻 Vinicius Kerber Presa 
+# Vinicius Kerber Presa 
 **Seja bem-vindo ao meu perfil!**
 > "Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema." – Thales Valentim 🪄
 
-Olá, me chamo Vinicius, fascinado e apaixonado por Desenvolvimento desde o meu primeiro contato, com mais de 10 anos de experiência, posso dizer que trabalho com satisfação e alegria, pois como já disse no começo rsrs... Desenvolvimento é uma de minhas paixões. 
+Olá, me chamo Vinicius, fascinado e apaixonado por Desenvolvimento desde o meu primeiro contato, com mais de 10 anos de experiência, posso dizer que trabalho com satisfação e alegria, pois como disse no começo... Desenvolvimento é uma de minhas paixões. 
 Aqui compartilho alguns dos projetos que refletem essa jornada.
 
 
